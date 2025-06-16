@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rhsro\\OneDrive\\Desktop\\Visual Studio\\HPlusSport.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD84960-F4EF-43E5-B931-5077B5D4B9A2}|HPlusSport.Web\\HPlusSport.Web.csproj|c:\\users\\rhsro\\onedrive\\desktop\\visual studio\\hplussport.web\\hplussport.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD84960-F4EF-43E5-B931-5077B5D4B9A2}|HPlusSport.Web\\HPlusSport.Web.csproj|solutionrelative:hplussport.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD84960-F4EF-43E5-B931-5077B5D4B9A2}|HPlusSport.Web\\HPlusSport.Web.csproj|c:\\users\\rhsro\\onedrive\\desktop\\visual studio\\hplussport.web\\hplussport.web\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD84960-F4EF-43E5-B931-5077B5D4B9A2}|HPlusSport.Web\\HPlusSport.Web.csproj|solutionrelative:hplussport.web\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD84960-F4EF-43E5-B931-5077B5D4B9A2}|HPlusSport.Web\\HPlusSport.Web.csproj|c:\\users\\rhsro\\onedrive\\desktop\\visual studio\\hplussport.web\\hplussport.web\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBD84960-F4EF-43E5-B931-5077B5D4B9A2}|HPlusSport.Web\\HPlusSport.Web.csproj|solutionrelative:hplussport.web\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD84960-F4EF-43E5-B931-5077B5D4B9A2}|HPlusSport.Web\\HPlusSport.Web.csproj|c:\\users\\rhsro\\onedrive\\desktop\\visual studio\\hplussport.web\\hplussport.web\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EBD84960-F4EF-43E5-B931-5077B5D4B9A2}|HPlusSport.Web\\HPlusSport.Web.csproj|solutionrelative:hplussport.web\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD84960-F4EF-43E5-B931-5077B5D4B9A2}|HPlusSport.Web\\HPlusSport.Web.csproj|c:\\users\\rhsro\\onedrive\\desktop\\visual studio\\hplussport.web\\hplussport.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EBD84960-F4EF-43E5-B931-5077B5D4B9A2}|HPlusSport.Web\\HPlusSport.Web.csproj|solutionrelative:hplussport.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rhsro\\OneDrive\\Desktop\\Visual Studio\\HPlusSport.Web\\HPlusSport.Web\\Migrations\\20250616114956_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HPlusSport.Web\\Migrations\\20250616114956_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD84960-F4EF-43E5-B931-5077B5D4B9A2}|HPlusSport.Web\\HPlusSport.Web.csproj|c:\\users\\rhsro\\onedrive\\desktop\\visual studio\\hplussport.web\\hplussport.web\\hplussportwebuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD84960-F4EF-43E5-B931-5077B5D4B9A2}|HPlusSport.Web\\HPlusSport.Web.csproj|solutionrelative:hplussport.web\\hplussportwebuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD84960-F4EF-43E5-B931-5077B5D4B9A2}|HPlusSport.Web\\HPlusSport.Web.csproj|c:\\users\\rhsro\\onedrive\\desktop\\visual studio\\hplussport.web\\hplussport.web\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBD84960-F4EF-43E5-B931-5077B5D4B9A2}|HPlusSport.Web\\HPlusSport.Web.csproj|solutionrelative:hplussport.web\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TokenController.cs",
+              "DocumentMoniker": "C:\\Users\\rhsro\\OneDrive\\Desktop\\Visual Studio\\HPlusSport.Web\\HPlusSport.Web\\Controllers\\TokenController.cs",
+              "RelativeDocumentMoniker": "HPlusSport.Web\\Controllers\\TokenController.cs",
+              "ToolTip": "C:\\Users\\rhsro\\OneDrive\\Desktop\\Visual Studio\\HPlusSport.Web\\HPlusSport.Web\\Controllers\\TokenController.cs",
+              "RelativeToolTip": "HPlusSport.Web\\Controllers\\TokenController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwD8AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T15:05:06.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\rhsro\\OneDrive\\Desktop\\Visual Studio\\HPlusSport.Web\\HPlusSport.Web\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HPlusSport.Web\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\rhsro\\OneDrive\\Desktop\\Visual Studio\\HPlusSport.Web\\HPlusSport.Web\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HPlusSport.Web\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T12:00:45.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250616114956_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\rhsro\\OneDrive\\Desktop\\Visual Studio\\HPlusSport.Web\\HPlusSport.Web\\Migrations\\20250616114956_Initial.cs",
+              "RelativeDocumentMoniker": "HPlusSport.Web\\Migrations\\20250616114956_Initial.cs",
+              "ToolTip": "C:\\Users\\rhsro\\OneDrive\\Desktop\\Visual Studio\\HPlusSport.Web\\HPlusSport.Web\\Migrations\\20250616114956_Initial.cs",
+              "RelativeToolTip": "HPlusSport.Web\\Migrations\\20250616114956_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T11:49:56.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rhsro\\OneDrive\\Desktop\\Visual Studio\\HPlusSport.Web\\HPlusSport.Web\\Program.cs",
+              "RelativeDocumentMoniker": "HPlusSport.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\rhsro\\OneDrive\\Desktop\\Visual Studio\\HPlusSport.Web\\HPlusSport.Web\\Program.cs",
+              "RelativeToolTip": "HPlusSport.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T11:44:37.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\rhsro\\OneDrive\\Desktop\\Visual Studio\\HPlusSport.Web\\HPlusSport.Web\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "HPlusSport.Web\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\rhsro\\OneDrive\\Desktop\\Visual Studio\\HPlusSport.Web\\HPlusSport.Web\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "HPlusSport.Web\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-16T11:44:07.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HPlusSportWebUser.cs",
+              "DocumentMoniker": "C:\\Users\\rhsro\\OneDrive\\Desktop\\Visual Studio\\HPlusSport.Web\\HPlusSport.Web\\HPlusSportWebUser.cs",
+              "RelativeDocumentMoniker": "HPlusSport.Web\\HPlusSportWebUser.cs",
+              "ToolTip": "C:\\Users\\rhsro\\OneDrive\\Desktop\\Visual Studio\\HPlusSport.Web\\HPlusSport.Web\\HPlusSportWebUser.cs",
+              "RelativeToolTip": "HPlusSport.Web\\HPlusSportWebUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T11:39:41.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\rhsro\\OneDrive\\Desktop\\Visual Studio\\HPlusSport.Web\\HPlusSport.Web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "HPlusSport.Web\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\rhsro\\OneDrive\\Desktop\\Visual Studio\\HPlusSport.Web\\HPlusSport.Web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "HPlusSport.Web\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-16T11:08:01.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rhsro\\OneDrive\\Desktop\\Visual Studio\\HPlusSport.Web\\HPlusSport.Web\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "HPlusSport.Web\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rhsro\\OneDrive\\Desktop\\Visual Studio\\HPlusSport.Web\\HPlusSport.Web\\Pages\\Index.cshtml",
+              "RelativeToolTip": "HPlusSport.Web\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T10:31:56.314Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

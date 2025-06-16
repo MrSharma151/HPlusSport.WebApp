@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rhsro\\OneDrive\\Desktop\\Visual Studio\\HPlusSport\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{606F12FA-E865-40C6-854B-9A9E469E6627}|HPlusSport.API\\HPlusSport.API.csproj|c:\\users\\rhsro\\onedrive\\desktop\\visual studio\\hplussport\\hplussport.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606F12FA-E865-40C6-854B-9A9E469E6627}|HPlusSport.API\\HPlusSport.API.csproj|solutionrelative:hplussport.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606F12FA-E865-40C6-854B-9A9E469E6627}|HPlusSport.API\\HPlusSport.API.csproj|c:\\users\\rhsro\\onedrive\\desktop\\visual studio\\hplussport\\hplussport.api\\configureswaggeroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606F12FA-E865-40C6-854B-9A9E469E6627}|HPlusSport.API\\HPlusSport.API.csproj|solutionrelative:hplussport.api\\configureswaggeroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606F12FA-E865-40C6-854B-9A9E469E6627}|HPlusSport.API\\HPlusSport.API.csproj|c:\\users\\rhsro\\onedrive\\desktop\\visual studio\\hplussport\\hplussport.api\\swaggerdefaultvalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606F12FA-E865-40C6-854B-9A9E469E6627}|HPlusSport.API\\HPlusSport.API.csproj|solutionrelative:hplussport.api\\swaggerdefaultvalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606F12FA-E865-40C6-854B-9A9E469E6627}|HPlusSport.API\\HPlusSport.API.csproj|c:\\users\\rhsro\\onedrive\\desktop\\visual studio\\hplussport\\hplussport.api\\models\\iqueryableextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606F12FA-E865-40C6-854B-9A9E469E6627}|HPlusSport.API\\HPlusSport.API.csproj|solutionrelative:hplussport.api\\models\\iqueryableextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606F12FA-E865-40C6-854B-9A9E469E6627}|HPlusSport.API\\HPlusSport.API.csproj|c:\\users\\rhsro\\onedrive\\desktop\\visual studio\\hplussport\\hplussport.api\\models\\productqueryparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606F12FA-E865-40C6-854B-9A9E469E6627}|HPlusSport.API\\HPlusSport.API.csproj|solutionrelative:hplussport.api\\models\\productqueryparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606F12FA-E865-40C6-854B-9A9E469E6627}|HPlusSport.API\\HPlusSport.API.csproj|c:\\users\\rhsro\\onedrive\\desktop\\visual studio\\hplussport\\hplussport.api\\models\\queryparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606F12FA-E865-40C6-854B-9A9E469E6627}|HPlusSport.API\\HPlusSport.API.csproj|solutionrelative:hplussport.api\\models\\queryparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606F12FA-E865-40C6-854B-9A9E469E6627}|HPlusSport.API\\HPlusSport.API.csproj|c:\\users\\rhsro\\onedrive\\desktop\\visual studio\\hplussport\\hplussport.api\\models\\modelbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606F12FA-E865-40C6-854B-9A9E469E6627}|HPlusSport.API\\HPlusSport.API.csproj|solutionrelative:hplussport.api\\models\\modelbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606F12FA-E865-40C6-854B-9A9E469E6627}|HPlusSport.API\\HPlusSport.API.csproj|c:\\users\\rhsro\\onedrive\\desktop\\visual studio\\hplussport\\hplussport.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606F12FA-E865-40C6-854B-9A9E469E6627}|HPlusSport.API\\HPlusSport.API.csproj|solutionrelative:hplussport.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606F12FA-E865-40C6-854B-9A9E469E6627}|HPlusSport.API\\HPlusSport.API.csproj|c:\\users\\rhsro\\onedrive\\desktop\\visual studio\\hplussport\\hplussport.api\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606F12FA-E865-40C6-854B-9A9E469E6627}|HPlusSport.API\\HPlusSport.API.csproj|solutionrelative:hplussport.api\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606F12FA-E865-40C6-854B-9A9E469E6627}|HPlusSport.API\\HPlusSport.API.csproj|c:\\users\\rhsro\\onedrive\\desktop\\visual studio\\hplussport\\hplussport.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606F12FA-E865-40C6-854B-9A9E469E6627}|HPlusSport.API\\HPlusSport.API.csproj|solutionrelative:hplussport.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606F12FA-E865-40C6-854B-9A9E469E6627}|HPlusSport.API\\HPlusSport.API.csproj|c:\\users\\rhsro\\onedrive\\desktop\\visual studio\\hplussport\\hplussport.api\\models\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606F12FA-E865-40C6-854B-9A9E469E6627}|HPlusSport.API\\HPlusSport.API.csproj|solutionrelative:hplussport.api\\models\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConfigureSwaggerOptions.cs",
+              "DocumentMoniker": "C:\\Users\\rhsro\\OneDrive\\Desktop\\Visual Studio\\HPlusSport\\HPlusSport.API\\ConfigureSwaggerOptions.cs",
+              "RelativeDocumentMoniker": "HPlusSport.API\\ConfigureSwaggerOptions.cs",
+              "ToolTip": "C:\\Users\\rhsro\\OneDrive\\Desktop\\Visual Studio\\HPlusSport\\HPlusSport.API\\ConfigureSwaggerOptions.cs",
+              "RelativeToolTip": "HPlusSport.API\\ConfigureSwaggerOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T08:13:20.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SwaggerDefaultValues.cs",
+              "DocumentMoniker": "C:\\Users\\rhsro\\OneDrive\\Desktop\\Visual Studio\\HPlusSport\\HPlusSport.API\\SwaggerDefaultValues.cs",
+              "RelativeDocumentMoniker": "HPlusSport.API\\SwaggerDefaultValues.cs",
+              "ToolTip": "C:\\Users\\rhsro\\OneDrive\\Desktop\\Visual Studio\\HPlusSport\\HPlusSport.API\\SwaggerDefaultValues.cs",
+              "RelativeToolTip": "HPlusSport.API\\SwaggerDefaultValues.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T08:11:57.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IQueryableExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\rhsro\\OneDrive\\Desktop\\Visual Studio\\HPlusSport\\HPlusSport.API\\Models\\IQueryableExtensions.cs",
+              "RelativeDocumentMoniker": "HPlusSport.API\\Models\\IQueryableExtensions.cs",
+              "ToolTip": "C:\\Users\\rhsro\\OneDrive\\Desktop\\Visual Studio\\HPlusSport\\HPlusSport.API\\Models\\IQueryableExtensions.cs",
+              "RelativeToolTip": "HPlusSport.API\\Models\\IQueryableExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T10:07:28.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductQueryParameters.cs",
+              "DocumentMoniker": "C:\\Users\\rhsro\\OneDrive\\Desktop\\Visual Studio\\HPlusSport\\HPlusSport.API\\Models\\ProductQueryParameters.cs",
+              "RelativeDocumentMoniker": "HPlusSport.API\\Models\\ProductQueryParameters.cs",
+              "ToolTip": "C:\\Users\\rhsro\\OneDrive\\Desktop\\Visual Studio\\HPlusSport\\HPlusSport.API\\Models\\ProductQueryParameters.cs",
+              "RelativeToolTip": "HPlusSport.API\\Models\\ProductQueryParameters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T08:01:27.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QueryParameters.cs",
+              "DocumentMoniker": "C:\\Users\\rhsro\\OneDrive\\Desktop\\Visual Studio\\HPlusSport\\HPlusSport.API\\Models\\QueryParameters.cs",
+              "RelativeDocumentMoniker": "HPlusSport.API\\Models\\QueryParameters.cs",
+              "ToolTip": "C:\\Users\\rhsro\\OneDrive\\Desktop\\Visual Studio\\HPlusSport\\HPlusSport.API\\Models\\QueryParameters.cs",
+              "RelativeToolTip": "HPlusSport.API\\Models\\QueryParameters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T14:15:20.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ModelBuilderExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\rhsro\\OneDrive\\Desktop\\Visual Studio\\HPlusSport\\HPlusSport.API\\Models\\ModelBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "HPlusSport.API\\Models\\ModelBuilderExtensions.cs",
+              "ToolTip": "C:\\Users\\rhsro\\OneDrive\\Desktop\\Visual Studio\\HPlusSport\\HPlusSport.API\\Models\\ModelBuilderExtensions.cs",
+              "RelativeToolTip": "HPlusSport.API\\Models\\ModelBuilderExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T17:27:04.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\rhsro\\OneDrive\\Desktop\\Visual Studio\\HPlusSport\\HPlusSport.API\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "HPlusSport.API\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\rhsro\\OneDrive\\Desktop\\Visual Studio\\HPlusSport\\HPlusSport.API\\Models\\Product.cs",
+              "RelativeToolTip": "HPlusSport.API\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T16:10:24.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\rhsro\\OneDrive\\Desktop\\Visual Studio\\HPlusSport\\HPlusSport.API\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "HPlusSport.API\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\rhsro\\OneDrive\\Desktop\\Visual Studio\\HPlusSport\\HPlusSport.API\\Models\\Category.cs",
+              "RelativeToolTip": "HPlusSport.API\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T16:10:06.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\rhsro\\OneDrive\\Desktop\\Visual Studio\\HPlusSport\\HPlusSport.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "HPlusSport.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\rhsro\\OneDrive\\Desktop\\Visual Studio\\HPlusSport\\HPlusSport.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "HPlusSport.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAowKwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T15:19:18.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rhsro\\OneDrive\\Desktop\\Visual Studio\\HPlusSport\\HPlusSport.API\\Program.cs",
+              "RelativeDocumentMoniker": "HPlusSport.API\\Program.cs",
+              "ToolTip": "C:\\Users\\rhsro\\OneDrive\\Desktop\\Visual Studio\\HPlusSport\\HPlusSport.API\\Program.cs",
+              "RelativeToolTip": "HPlusSport.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T18:07:20.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShopContext.cs",
+              "DocumentMoniker": "C:\\Users\\rhsro\\OneDrive\\Desktop\\Visual Studio\\HPlusSport\\HPlusSport.API\\Models\\ShopContext.cs",
+              "RelativeDocumentMoniker": "HPlusSport.API\\Models\\ShopContext.cs",
+              "ToolTip": "C:\\Users\\rhsro\\OneDrive\\Desktop\\Visual Studio\\HPlusSport\\HPlusSport.API\\Models\\ShopContext.cs",
+              "RelativeToolTip": "HPlusSport.API\\Models\\ShopContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T17:29:30.62Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
